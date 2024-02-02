@@ -1,0 +1,15 @@
+C:\Users\59899\Desktop\Obligatorio\Gestion_Viajes\bin\Debug\Gestion_Viajes.exe
+C:\Users\59899\Desktop\Obligatorio\Gestion_Viajes\bin\Debug\Gestion_Viajes.pdb
+C:\Users\59899\Desktop\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.exe
+C:\Users\59899\Desktop\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.pdb
+C:\Users\59899\Desktop\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.csprojResolveAssemblyReference.cache
+C:\Users\59899\Documents\Analista de sistemas\POO\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.exe
+C:\Users\59899\Documents\Analista de sistemas\POO\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.pdb
+C:\Users\59899\Documents\Analista de sistemas\POO\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.csprojResolveAssemblyReference.cache
+C:\Users\59899\Documents\Analista de sistemas\POO\Obligatorio\Gestion_Viajes\bin\Debug\Gestion_Viajes.exe
+C:\Users\59899\Documents\Analista de sistemas\POO\Obligatorio\Gestion_Viajes\bin\Debug\Gestion_Viajes.pdb
+C:\Users\59899\Documents\Analista de sistemas\Primer año\POO\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.exe
+C:\Users\59899\Documents\Analista de sistemas\Primer año\POO\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.pdb
+C:\Users\59899\Documents\Analista de sistemas\Primer año\POO\Obligatorio\Gestion_Viajes\bin\Debug\Gestion_Viajes.exe
+C:\Users\59899\Documents\Analista de sistemas\Primer año\POO\Obligatorio\Gestion_Viajes\bin\Debug\Gestion_Viajes.pdb
+C:\Users\59899\Documents\Analista de sistemas\Primer año\POO\Obligatorio\Gestion_Viajes\obj\x86\Debug\Gestion_Viajes.csprojResolveAssemblyReference.cache
